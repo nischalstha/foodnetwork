@@ -8,16 +8,14 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This is our first web application - The FoodNetwork
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <ul>
+        <li>Anish Karki</li>
+        <li>Ashish Rajthala</li>
+        <li>Badal Karki</li>
+              <li>Nischal Shrestha</li>
+        </ul>
       </header>
     </div>
   );
