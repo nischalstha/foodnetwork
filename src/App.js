@@ -12,6 +12,7 @@ function App() {
         <li>Ashish Rajthala</li>
         <li>Badal Karki</li>
         <li>Nischal Shrestha</li>
+         <li> Mofo </li>
         </ul>
       </header>
     </div>
