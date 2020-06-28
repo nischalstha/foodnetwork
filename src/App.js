@@ -11,10 +11,10 @@ function App() {
         <li>Anish Karki</li>
         <li>Ashish Rajthala: Helloo I am goona be working on log in and sigh up.</li>
         <li>Badal Karki</li>
-        <li>Nischal Shrestha</ li>
-        <li>Food Recipe app</li>
+        <li>Nischal Shrestha</li>
         </ul>
         <p> Wassssssup Dawgs!!!</p>
+
       </header>
     </div>
   );
