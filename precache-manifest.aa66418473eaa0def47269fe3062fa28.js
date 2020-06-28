@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76be769b035717817f31ecdea45f3cfe",
+    "revision": "65f4b1ea1a4a90ab84da6754d5541e21",
     "url": "/foodnetwork/index.html"
   },
   {
-    "revision": "128c796caccdd5830919",
-    "url": "/foodnetwork/static/css/main.5f361e03.chunk.css"
+    "revision": "323cba2e9cfc10d04f84",
+    "url": "/foodnetwork/static/css/main.523f09c5.chunk.css"
   },
   {
     "revision": "92b4b11bf000ff5bdca7",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodnetwork/static/js/2.fff40d0f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "128c796caccdd5830919",
-    "url": "/foodnetwork/static/js/main.7b6f1e7f.chunk.js"
+    "revision": "323cba2e9cfc10d04f84",
+    "url": "/foodnetwork/static/js/main.bb32efa4.chunk.js"
   },
   {
     "revision": "41240ed716d8d7fb7cb6",
     "url": "/foodnetwork/static/js/runtime-main.c78db3da.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/foodnetwork/static/media/logo.5d5d9eef.svg"
+    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
+    "url": "/foodnetwork/static/media/logo.ee7cd8ed.svg"
   }
 ]);

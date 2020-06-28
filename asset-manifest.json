@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/foodnetwork/static/css/main.5f361e03.chunk.css",
-    "main.js": "/foodnetwork/static/js/main.7b6f1e7f.chunk.js",
-    "main.js.map": "/foodnetwork/static/js/main.7b6f1e7f.chunk.js.map",
+    "main.css": "/foodnetwork/static/css/main.523f09c5.chunk.css",
+    "main.js": "/foodnetwork/static/js/main.bb32efa4.chunk.js",
+    "main.js.map": "/foodnetwork/static/js/main.bb32efa4.chunk.js.map",
     "runtime-main.js": "/foodnetwork/static/js/runtime-main.c78db3da.js",
     "runtime-main.js.map": "/foodnetwork/static/js/runtime-main.c78db3da.js.map",
     "static/js/2.fff40d0f.chunk.js": "/foodnetwork/static/js/2.fff40d0f.chunk.js",
     "static/js/2.fff40d0f.chunk.js.map": "/foodnetwork/static/js/2.fff40d0f.chunk.js.map",
     "index.html": "/foodnetwork/index.html",
-    "precache-manifest.6e69f638ef121d78824a3cfb01ef36b1.js": "/foodnetwork/precache-manifest.6e69f638ef121d78824a3cfb01ef36b1.js",
+    "precache-manifest.aa66418473eaa0def47269fe3062fa28.js": "/foodnetwork/precache-manifest.aa66418473eaa0def47269fe3062fa28.js",
     "service-worker.js": "/foodnetwork/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/foodnetwork/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.523f09c5.chunk.css.map": "/foodnetwork/static/css/main.523f09c5.chunk.css.map",
     "static/js/2.fff40d0f.chunk.js.LICENSE.txt": "/foodnetwork/static/js/2.fff40d0f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/foodnetwork/static/media/logo.5d5d9eef.svg"
+    "static/media/logo.svg": "/foodnetwork/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c78db3da.js",
     "static/js/2.fff40d0f.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7b6f1e7f.chunk.js"
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.bb32efa4.chunk.js"
   ]
 }
