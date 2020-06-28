@@ -14,6 +14,10 @@ function App() {
         <li>Nischal Shrestha</ li>
         </ul>
         <p> Wassssssup Dawgs!!!</p>
+<<<<<<< HEAD
+=======
+        <p>do it</p>
+>>>>>>> e06f993717c1bdef6fb7fcdbe2ad51ea766622cb
       </header>
     </div>
   );
