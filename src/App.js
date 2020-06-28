@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './img/foodnetwork.png';
 import './App.css';
 
 function App() {
@@ -7,9 +7,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          This is our first web application - The FoodNetwork
-        </p>
         <ul>
         <li>Anish Karki</li>
         <li>Ashish Rajthala</li>
