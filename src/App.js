@@ -12,9 +12,8 @@ function App() {
         <li>Ashish Rajthala</li>
         <li>Badal Karki</li>
         <li>Nischal Shrestha</ li>
+        <li>Food Recipe app</li>
         </ul>
-        <p> Wassssssup Dawgs!!!</p>
-        <p>do it</p>
       </header>
     </div>
   );
