@@ -14,7 +14,8 @@ function App() {
         <li>Anish Karki</li>
         <li>Ashish Rajthala</li>
         <li>Badal Karki</li>
-        <li>Nischal Shrestha</li>
+        <li>Nischal Shrestha</ li>
+        <li>Team members</li>
         </ul>
       </header>
     </div>
